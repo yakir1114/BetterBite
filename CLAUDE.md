@@ -71,14 +71,14 @@ Before implementing any module, **read its spec doc first.**
 | Architecture / flows | `02_System_Architecture.md` |
 | DB schema | `03_Database_Schema.md` |
 | API contract | `04_API_Spec.md` |
-| Screens | `05_UI_Design.md` *(pending)* |
-| Design system | `06_Design_System.md` *(pending)* |
-| Food recognition | `07_AI_Food_Recognition.md` *(pending)* |
-| Nutrition coach | `08_AI_Nutrition_Coach.md` *(pending)* |
-| Recipes | `09_Recipes_Module.md` *(pending)* |
-| Gamification | `10_Gamification.md` *(pending)* |
-| Notifications | `11_Notifications.md` *(pending)* |
-| Testing | `12_Testing_Plan.md` *(pending)* |
+| Screens | `05_UI_Design.md` |
+| Design system | `06_Design_System.md` |
+| Food recognition | `07_AI_Food_Recognition.md` |
+| Nutrition coach | `08_AI_Nutrition_Coach.md` |
+| Recipes | `09_Recipes_Module.md` |
+| Gamification | `10_Gamification.md` |
+| Notifications | `11_Notifications.md` |
+| Testing | `12_Testing_Plan.md` |
 
 If a spec is ambiguous or contradicts this file, stop and ask rather than guessing.
 

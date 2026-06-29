@@ -6,7 +6,7 @@ Not just a calorie calculator: the differentiator is a longitudinal **AI Nutriti
 
 ## Status
 
-🚧 Early development — specification phase. Foundation specs are in `docs/`; code scaffold is next.
+🚧 Early development. **All 12 foundation specs are complete** (`docs/`); code scaffold is next.
 
 ## Stack
 
@@ -37,7 +37,14 @@ BetterBite/
 | 02 | [System Architecture](docs/02_System_Architecture.md) | ✅ |
 | 03 | [Database Schema](docs/03_Database_Schema.md) | ✅ |
 | 04 | [API Spec](docs/04_API_Spec.md) | ✅ |
-| 05–12 | UI, Design System, AI modules, Recipes, Gamification, Notifications, Testing | ⏳ |
+| 05 | [UI Design](docs/05_UI_Design.md) | ✅ |
+| 06 | [Design System](docs/06_Design_System.md) | ✅ |
+| 07 | [AI Food Recognition](docs/07_AI_Food_Recognition.md) | ✅ |
+| 08 | [AI Nutrition Coach](docs/08_AI_Nutrition_Coach.md) | ✅ |
+| 09 | [Recipes Module](docs/09_Recipes_Module.md) | ✅ |
+| 10 | [Gamification](docs/10_Gamification.md) | ✅ |
+| 11 | [Notifications](docs/11_Notifications.md) | ✅ |
+| 12 | [Testing Plan](docs/12_Testing_Plan.md) | ✅ |
 
 ## Working in this repo
 
